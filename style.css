@@ -1,0 +1,15 @@
+body {
+  background-image: url(background.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header-img {
+  width: 300px;
+  height: auto;
+}
+
+footer {
+  color: white;
+  background-color: gray;
+}
